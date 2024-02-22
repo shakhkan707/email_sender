@@ -1,5 +1,8 @@
 {
   "description": "",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "nodemailer": "^6.9.9"
